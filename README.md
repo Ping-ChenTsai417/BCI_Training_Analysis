@@ -1,4 +1,4 @@
-# EEG Independent Component Features Repository
+# Results repository
 
 This repository contains EEG-derived **Independent Component Analysis (ICA) features** related to attention and memory, as well as regional power metrics and statistical summaries.
 
