@@ -2,23 +2,6 @@
 
 This repository contains EEG-derived **Independent Component Analysis (ICA) features** related to attention and memory, as well as regional power metrics and statistical summaries.
 
-## Directory Structure
-.
-├── Taiwan_older_Group1/
-│ ├── attention/
-│ │ ├── 101_attention.pdf
-│ │ ├── 102_attention.pdf
-│ │ └── ...
-│ └── memory/
-│ ├── 101_P300.pdf
-│ ├── 102_P300.pdf
-│ └── ...
-├── Taiwan_older_Group2/
-├── Taiwan_older_Group3/
-├── subjects_101-120_baseline_multiband_power.csv
-├── subjects_101-120_baseline_wilcoxon_results.csv
-└── README.md
-
 
 ## Summary of Contents
 
