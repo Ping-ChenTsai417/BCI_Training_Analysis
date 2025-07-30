@@ -1,0 +1,9 @@
+Region,Early_Median,Middle_Median,Later_Median,Early_vs_Middle,Middle_vs_Later,Early_vs_Later,Components_Processed
+Left-Frontal,-0.19711,-1.701,2.5282,0.33406 (decrease),1.6835795e-10 (increase),2.1735558e-08 (increase),10
+Right-Frontal,-6.0098,-1.6698,0.26491,4.1055e-05 (increase),0.0019137898 (increase),8.7602815e-12 (increase),9
+Left-Temporal,NA,NA,NA,NA,NA,NA,NA
+Right-Temporal,NA,NA,NA,NA,NA,NA,NA
+Left-Occipital,NA,NA,NA,NA,NA,NA,0
+Right-Occipital,NA,NA,NA,NA,NA,NA,NA
+Left-Parietal,NA,NA,NA,NA,NA,NA,NA
+Right-Parietal,NA,NA,NA,NA,NA,NA,NA

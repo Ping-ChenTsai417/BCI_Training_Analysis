@@ -1,2 +1,41 @@
-# BCI_Training_Analysis
-This repository stores the scripts and some of the data for subject analysis.
+# EEG Independent Component Features Repository
+
+This repository contains EEG-derived **Independent Component Analysis (ICA) features** related to attention and memory, as well as regional power metrics and statistical summaries.
+
+## Directory Structure
+.
+├── Taiwan_older_Group1/
+│ ├── attention/
+│ │ ├── 101_attention.pdf
+│ │ ├── 102_attention.pdf
+│ │ └── ...
+│ └── memory/
+│ ├── 101_P300.pdf
+│ ├── 102_P300.pdf
+│ └── ...
+├── Taiwan_older_Group2/
+├── Taiwan_older_Group3/
+├── subjects_101-120_baseline_multiband_power.csv
+├── subjects_101-120_baseline_wilcoxon_results.csv
+└── README.md
+
+
+## Summary of Contents
+
+- `Taiwan_older_GroupN/attention/`  
+  Contains ICA-based feature reports for **attention** tasks, stored as PDFs for subjects **101–120**.
+
+- `Taiwan_older_GroupN/memory/`  
+  Contains ICA-based **P300-related memory** reports in PDF format for the same subjects.
+
+- `subjects_101-120_baseline_multiband_power.csv`  
+  Spreadsheet of multiband baseline power for all 20 subjects, organised by frequency band and region.
+
+- `subjects_101-120_baseline_wilcoxon_results.csv`  
+  Contains statistical Wilcoxon test results comparing baseline regional powers.
+
+## Purpose
+
+This repository supports the analysis of EEG signals collected from older adult groups in Taiwan, focusing on neurofeedback training for attention and N-back tasks for memory. ICA features and regional power data are provided for in-depth statistical and neurocognitive analysis.
+
+
